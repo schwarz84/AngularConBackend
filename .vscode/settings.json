@@ -1,0 +1,10 @@
+{
+    "editor.suggest.showEnumMembers": false,
+    "editor.suggest.showFields": false,
+    "editor.suggest.showKeywords": false,
+    "editor.suggest.showStatusBar": true,
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorBlinking": "expand",
+    "editor.quickSuggestionsDelay": 0,
+    "editor.suggest.shareSuggestSelections": true
+}
